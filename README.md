@@ -9,8 +9,8 @@ Ryan (aka me) is a Marxist-Leninist, swiper, and a programmer with very little k
 - [My Anonymity Guide](https://rentry.org/ryanprivacy)
 - [My Scam Guide](https://rentry.org/ryanonscams)
 - [My Marxist Theory Guide](https://rentry.org/ryanmarxist)
+- [My Praxben Response](https://docs.google.com/document/d/1PEz34Qc7uv6ovatYDDh-N7EXiVDlZXNFDfnZni5Q5QU/edit?usp=sharing)
 ## Some things I'm working on
-- Praxben Debunk
 - DNM Bible with Ming
 - A premium receipt generator
 
