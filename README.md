@@ -2,7 +2,7 @@
 ## Who is Ryan?
 Ryan (aka me) is a Marxist-Leninist, swiper, and a programmer with very little knowledge.
 ## Servers I'm affiliated with
-- [Incognito Revolution](https://discord.gg/QuWh5kdrKa) My Marxist-Leninist Server also regarding carding, swiping, piracy, and more.
+- [Ryan's Library](https://discord.gg/QuWh5kdrKa) Learn about Marxism here.
 - [SourcesDB](https://discord.gg/GfVKhMRK8U) Sources DB is the successor to the SGF Sources community. SGF Sources was a community that collected and shared learning material related to socialism, with a specific focus on Marxism. Sources DB expands its scope to any subject, including technology, medicine, biology, and more while still allowing social, political, and economic related material to be posted. 
 - [MingsHangout](https://discord.gg/eG87gk5bb6) Here you can learn about anonymity, privacy, security and more.
 ## Some papers I've written
