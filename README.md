@@ -10,10 +10,11 @@ Ryan (aka me) is a Marxist-Leninist, swiper, and a programmer with very little k
 - [My Scam Guide](https://rentry.org/ryanonscams)
 - [My Marxist Theory Guide](https://rentry.org/ryanmarxist)
 - [My Praxben Response](https://docs.google.com/document/d/1PEz34Qc7uv6ovatYDDh-N7EXiVDlZXNFDfnZni5Q5QU/edit?usp=sharing)
+- [Ryan's Library](https://rentry.org/ryanslibrary) This is still a WIP, but has many Marxist resources.
+- [Death Toll of Capitalism](https://rentry.org/ryancapitalistdeathtoll)
 ## Some things I'm working on
 - DNM Bible with Ming
 - A premium receipt generator
-- Ryan's Library
  <h3 align="center">Connect with me:</h3>
  <p align="center">
   <a href="https://www.reddit.com/user/Ryan_Da_Rizzler" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1200px-Reddit_Logo_Icon.svg.png" alt="mingthenoob" height="40" width="40" /></a>
