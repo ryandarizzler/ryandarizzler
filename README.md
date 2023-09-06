@@ -17,6 +17,6 @@ Ryan (aka me) is a Marxist-Leninist, swiper, and a programmer with very little k
 - A premium receipt generator
  <h3 align="center">Connect with me:</h3>
  <p align="center">
-  <a href="https://www.reddit.com/user/Ryan_Da_Rizzler" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1200px-Reddit_Logo_Icon.svg.png" alt="mingthenoob" height="40" width="40" /></a>
+  <a href="https://www.reddit.com/user/Future_Teaching9016" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1200px-Reddit_Logo_Icon.svg.png" alt="mingthenoob" height="40" width="40" /></a>
   <a href="https://discord.gg/QuWh5kdrKa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WaPgUY5gd4" height="30" width="40" /></a>
 </p>
