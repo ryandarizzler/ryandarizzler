@@ -12,6 +12,7 @@ Ryan (aka me) is a Marxist-Leninist, swiper, and a programmer with very little k
 - [My Praxben Response](https://docs.google.com/document/d/1PEz34Qc7uv6ovatYDDh-N7EXiVDlZXNFDfnZni5Q5QU/edit?usp=sharing)
 - [Ryan's Library](https://rentry.org/ryanslibrary) This is still a WIP, but has many Marxist resources.
 - [Death Toll of Capitalism](https://rentry.org/ryancapitalistdeathtoll)
+- [Alzheimer's Paper](https://rentry.org/ryanalzheimerspage)
 ## Some things I'm working on
 - DNM Bible with Ming
 - A premium receipt generator
